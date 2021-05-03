@@ -29,7 +29,7 @@ public class Assignment1Tests
         
         MoveEstimator.Main();
 
-        Assert.Equal(output.ToString(), string.Format("Please enter the estimated number of hours: How many miles involved in the move? For a move taking {0} hours and going {1} miles{2}   the estimate is {3}{2}", 
-            Convert.ToDouble(hoursInput),Convert.ToDouble(milesInput), Environment.NewLine, "$1,720.00"));
+        Assert.Equal(string.Format("Please enter the estimated number of hours: How many miles involved in the move? For a move taking {0} hours and going {1} miles{2}   the estimate is {3}{2}",
+            Convert.ToDouble(hoursInput), Convert.ToDouble(milesInput), Environment.NewLine, "$1,720.00"), output.ToString());
     }
 }
