@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bis-305-assign2-moveest-test-", "bis-305-assign2-moveest-test-.csproj", "{F26C78A4-5EC5-4650-A108-73EEB4582315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26C78A4-5EC5-4650-A108-73EEB4582315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26C78A4-5EC5-4650-A108-73EEB4582315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26C78A4-5EC5-4650-A108-73EEB4582315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26C78A4-5EC5-4650-A108-73EEB4582315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AA2C92C-B44F-4E0A-8451-6F1AB1E12444}
+	EndGlobalSection
+EndGlobal
