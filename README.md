@@ -4,8 +4,8 @@ This repo is for use to code and debug the BIS 305 Assignment 2 - Programming Ex
 
 The inputs in the console will be like:
 ```html
-Please enter the estimated number of hours: 10
-How many miles involved in the move? 10
+10
+10
 ```
 
 The output from the console should be:
